@@ -1127,4 +1127,8 @@ header {
     border-bottom: 1px solid #0085f8;
     padding: 10px 20px;
   }
+
+  .blog_heading{
+    margin: 50px 20px;
+  }
 }
