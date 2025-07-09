@@ -807,7 +807,9 @@ header {
         font-weight: 400;
     }
 
-
+.home_page-main_item_flight svg{
+    display: none;
+}
 
 
 
@@ -962,7 +964,7 @@ header {
   }
 
   .home_page-main_item{
-    padding: 10px 0;
+    padding: 10px 0px;
   }
   
   .home_page-main_item svg{
